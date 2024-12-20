@@ -1,5 +1,5 @@
 # Circular_Economy_Coders_037
-Streamlit app link - https://circular-economy-coders-037.streamlit.app/
+Streamlit app link - https://circular-economy-coders.streamlit.app/
 # E-commerce Insights Dashboard
 <img src="EcomDash_Logo.png" alt="isolated" width="200"/>
 
@@ -79,7 +79,7 @@ Users can filter the dashboard data using:
    bash
    streamlit run welcome.py
 
-## App Link :  https://circular-economy-coders-037.streamlit.app/ 
+## App Link :  https://circular-economy-coders.streamlit.app/ 
 
 ## Deployment on Streamlit
 This project is deployed on Streamlit Cloud. To deploy your own version:
